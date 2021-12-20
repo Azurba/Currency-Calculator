@@ -2,7 +2,7 @@
 
 # About
 
-This app was created by Joao Pimenta Giudice. It was adapted by a Flutter OnlineCourse developed by Daniel Ciolfi. The creation of this app was mainly to prepare myself to my
+This app was created by Joao Pimenta Giudice. It was adapted by a Flutter Online Course developed by Daniel Ciolfi. The creation of this app was mainly to prepare myself to my
 internship at Diletta Solutions during summer 2019. 
 
 The app uses an API of the website HG Brasil (https://hgbrasil.com/status/finance), in which offers a variety of free API json data 
