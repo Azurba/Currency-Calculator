@@ -3,7 +3,7 @@
 # About
 
 This app was created by Joao Pimenta Giudice. It was adapted by a Flutter OnlineCourse developed by Daniel Ciolfi. The creation of this app was mainly to prepare myself to my
-internship at Diletta Aplicativos during summer 2019. 
+internship at Diletta Solutions during summer 2019. 
 
 The app uses an API of the website HG Brasil (https://hgbrasil.com/status/finance), in which offers a variety of free API json data 
 for developers to use. This app specificaly is using the HG Finance to get the most recent currency values of Brazilian Real, US Dolar and Euro.
