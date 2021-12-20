@@ -12,6 +12,10 @@ App created: summer 2019
 
 Latest update: August 2021
 
+# Video
+
+https://user-images.githubusercontent.com/58566178/146827299-43954e73-e430-4f7a-ad4e-e8ce21ef3c91.mp4
+
 # Interface
 
 This app is super simple: it has no menus and therefore it will load the user inputs as soon as the app is opened.
@@ -26,11 +30,4 @@ For the sake of simplicity, the app has no buttons to convert one value to anoth
 *Figure 2: user inputs and results*
 
 ![base](images/App_image1.png)
-
-# Video
-
-https://user-images.githubusercontent.com/58566178/146827299-43954e73-e430-4f7a-ad4e-e8ce21ef3c91.mp4
-
-
-
 
