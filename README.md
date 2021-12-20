@@ -21,11 +21,16 @@ This app is super simple: it has no menus and therefore it will load the user in
 ![base](images/app_image2.png)
 
 
-For the sake of simplicity, the app has no buttons to convert one value to another, everything is done dynamically when the user is typing.
+For the sake of simplicity, the app has no buttons to convert one value to another, everything is done dynamically when the user is typing (as seen in the video below).
 
 *Figure 2: user inputs and results*
 
 ![base](images/App_image1.png)
+
+# Video
+
+https://user-images.githubusercontent.com/58566178/146827299-43954e73-e430-4f7a-ad4e-e8ce21ef3c91.mp4
+
 
 
 
